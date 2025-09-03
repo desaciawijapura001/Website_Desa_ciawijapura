@@ -1,0 +1,33 @@
+"use client"
+
+import type React from "react"
+import { GeistSans } from "geist/font/sans"
+import { GeistMono } from "geist/font/mono"
+import { Playfair_Display } from "next/font/google"
+import { Analytics } from "@vercel/analytics/next"
+import { useSearchParams } from "next/navigation"
+import { Suspense } from "react"
+import "./globals.css"
+
+const playfairDisplay = Playfair_Display({
+  subsets: ["latin"],
+  display: "swap",
+  variable: "--font-playfair",
+})
+
+export function ClientLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode
+}>) {
+  const searchParams = useSearchParams()
+
+  return (
+    <html lang="id">
+      <body className={`font-sans ${GeistSans.variable} ${GeistMono.variable} ${playfairDisplay.variable}`}>
+        <Suspense fallback={<div>Loading...</div>}>{children}</Suspense>
+        <Analytics />
+      </body>
+    </html>
+  )
+}
