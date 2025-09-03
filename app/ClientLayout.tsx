@@ -19,10 +19,16 @@ export function ClientLayout({
 }: Readonly<{
   children: React.ReactNode
 }>) {
-  
   return (
     <html lang="id">
-      <body className={`font-sans ${GeistSans.variable} ${GeistMono.variable} ${playfairDisplay.variable}`}>
+      <head>
+        {/* Tambahkan meta viewport agar responsif di mobile */}
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+      </head>
+      <body
+        className={`font-sans ${GeistSans.variable} ${GeistMono.variable} ${playfairDisplay.variable}`}
+        style={{ overflowX: "hidden" }} // Hindari scroll horizontal di mobile
+      >
         <Suspense fallback={<div>Loading...</div>}>{children}</Suspense>
         <Analytics />
       </body>
