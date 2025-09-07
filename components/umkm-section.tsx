@@ -55,18 +55,6 @@ const umkmData: UMKMBusiness[] = [
   },
   {
     id: 4,
-    name: "Roti Fa'iz",
-    category: "Roti & Bakery",
-    description:
-      "Roti segar setiap hari dengan berbagai varian rasa dan topping yang lezat, cocok untuk sarapan keluarga.",
-    phone: "",
-    location: "Desa Ciawijapura",
-    rating: 5.0,
-    image: "/fresh-indonesian-bread-and-pastries-faiz-bakery.png",
-    specialties: ["Roti Tawar", "Roti Manis", "Pastry", "Roti Sobek"],
-  },
-  {
-    id: 5,
     name: "Berlin Bakery",
     category: "Bakery Modern",
     description:
