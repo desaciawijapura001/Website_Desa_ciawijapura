@@ -38,10 +38,10 @@ const newsData: NewsItem[] = [
   },
     {
     id: 3,
-    title: "Suara Pemuda Desa: Tingkatkan Pertanian Lewat Podcast Bersama BumDes",
-    excerpt: "Suara Pemuda Desa: Tingkatkan Pertanian Lewat Podcast Bersama BumDes",
+    title: "Mahasiswa KKM UMC Tempelkan Poster Infografis di UMKM Desa Ciawijapura untuk Edukasi Masyarakat",
+    excerpt: "Mahasiswa KKM UMC Tempelkan Poster Infografis di UMKM Desa Ciawijapura untuk Edukasi Masyarakat",
     content:
-      "Pemuda Desa Ciawijapura berinisiatif mengangkat isu pertanian melalui podcast bersama Badan Usaha Milik Desa (BumDes). Kegiatan ini menjadi wadah bagi generasi muda untuk menyuarakan ide, berbagi pengalaman, serta mendorong inovasi dalam sektor pertanian desa. <p>Melalui podcast tersebut, para pemuda berharap dapat memperkuat sinergi dengan BumDes dalam mengembangkan pertanian yang lebih modern dan berkelanjutan. Selain sebagai sarana edukasi, program ini juga diharapkan mampu memotivasi masyarakat, khususnya kaum muda, agar semakin peduli dan terlibat aktif dalam memajukan pertanian desa.",
+      "Dalam rangka mendukung pemberdayaan ekonomi lokal, mahasiswa Kuliah Kerja Mahasiswa (KKM) Universitas Muhammadiyah Cirebon (UMC) melakukan kegiatan penempelan poster infografis di sejumlah titik strategis di Desa Ciawijapura. Poster tersebut dirancang khusus untuk memperkenalkan produk-produk UMKM setempat, seperti kuliner, kerajinan tangan, hingga layanan jasa masyarakat.",
     date: "2025-09-07",
     image: "...", // gunakan link embed YouTube di sini
     category: "kegiatan",
