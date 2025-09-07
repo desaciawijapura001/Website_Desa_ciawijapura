@@ -52,8 +52,8 @@ const newsData: NewsItem[] = [
     content:
       "Kuwu Ciawijapura Susukanlebak Umumkan Pengurus Baru BumDes",
     date: "2025-09-07",
-    image: "https://youtu.be/CUkmiPX76PM?si=1rm_vEs-bWBAINNj", // gunakan link embed YouTube di sini
-    category: "Teknologi",
+    image: "https://www.youtube.com/embed/CUkmiPX76PM?si=4ObLaEEUaAvASrF_", // gunakan link embed YouTube di sini
+    category: "Berita",
   },
 
   
