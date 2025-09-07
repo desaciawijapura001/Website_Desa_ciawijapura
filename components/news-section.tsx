@@ -56,6 +56,15 @@ const newsData: NewsItem[] = [
     image: "https://www.youtube.com/embed/OtcMaK7BZNo?si=4EkxL0aQeRVqgekI", // gunakan link embed YouTube di sini
     category: "Berita",
   },
+  {
+  id: 5,
+  title: "Judul Berita Baru",
+  excerpt: "Ringkasan berita baru...",
+  content: "Isi lengkap berita baru...",
+  date: "2025-09-08",
+  image: "gambar-baru.jpg",
+  category: "Berita",
+},
 ]
 // ...existing code...
 
