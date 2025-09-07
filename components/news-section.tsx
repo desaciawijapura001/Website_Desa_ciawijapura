@@ -43,9 +43,10 @@ const newsData: NewsItem[] = [
     content:
       "Vidio Tanboy Kun yang mencoba mie ayam legendaris yang viral di ciawijapura.",
     date: "2025-09-05",
-    image: "https://www.youtube.com/embed/YdVb5mRimiM?si=OoABXbcxDyhWc-AC", // gunakan link embed YouTube di sini
+    image: "https://www.youtube.com/embed/CUkmiPX76PM?si=4ObLaEEUaAvASrF_", // gunakan link embed YouTube di sini
     category: "Teknologi",
   },  
+  
     {
     id: 4,
     title: "Kuwu Ciawijapura Susukanlebak Umumkan Pengurus Baru BumDes",
