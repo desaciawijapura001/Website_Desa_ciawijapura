@@ -44,7 +44,7 @@ const newsData: NewsItem[] = [
       "Pemuda Desa Ciawijapura berinisiatif mengangkat isu pertanian melalui podcast bersama Badan Usaha Milik Desa (BumDes). Kegiatan ini menjadi wadah bagi generasi muda untuk menyuarakan ide, berbagi pengalaman, serta mendorong inovasi dalam sektor pertanian desa. <p>Melalui podcast tersebut, para pemuda berharap dapat memperkuat sinergi dengan BumDes dalam mengembangkan pertanian yang lebih modern dan berkelanjutan. Selain sebagai sarana edukasi, program ini juga diharapkan mampu memotivasi masyarakat, khususnya kaum muda, agar semakin peduli dan terlibat aktif dalam memajukan pertanian desa.",
     date: "2025-09-07",
     image: "...", // gunakan link embed YouTube di sini
-    category: "Berita",
+    category: "kegiatan",
   },
   {
     id: 4,
