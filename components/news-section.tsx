@@ -38,12 +38,12 @@ const newsData: NewsItem[] = [
   },
     {
     id: 3,
-    title: "Kuwu Ciawijapura Susukanlebak Umumkan Pengurus Baru BumDes",
-    excerpt: "Kuwu Desa Ciawijapura, Kecamatan Susukanlebak, resmi mengumumkan pengangkatan pengurus Badan Usaha Milik Desa (BumDes). Langkah ini dilakukan sebagai upaya memperkuat peran BumDes dalam menggerakkan roda perekonomian desa dan meningkatkan kesejahteraan masyarakat.Dalam kesempatan tersebut, Kuwu menegaskan bahwa keberadaan pengurus baru diharapkan mampu membawa inovasi serta mengembangkan berbagai unit usaha desa agar lebih produktif dan bermanfaat. Selain itu, pengurus BumDes juga diminta untuk menjaga transparansi, akuntabilitas, dan bekerja sama dengan masyarakat demi tercapainya pembangunan desa yang berkelanjutan.",
+    title: "Datang ke Ciawijapura Cirebon, Gubernur Jabar Dedi Mulyadi Borong 2 Ton Melon Petani",
+    excerpt: "Datang ke Ciawijapura Cirebon, Gubernur Jabar Dedi Mulyadi Borong 2 Ton Melon Petani",
     content:
-      "Kuwu Ciawijapura Susukanlebak Umumkan Pengurus Baru BumDes",
+      "TRIBUNCIREBON.COM - Gubernur Jawa Barat, Kang Dedi Mulyadi (KDM), mendapat sambutan hangat dari ratusan warga saat berkunjung ke Desa Ciawijapura, Kecamatan Susukan Lebak, Kabupaten Cirebon, pada Kamis (26/6/2025). Dalam kunjungan tersebut, KDM secara spontan memborong dua ton melon hasil panen petani lokal yang tergabung dalam Badan Usaha Milik Desa (BumDes). Warga yang sudah menanti sejak pagi tampak antusias menyambut kehadiran mantan Bupati Purwakarta itu. KDM datang mengenakan pakaian khas Sunda lengkap dengan ikat kepala dan langsung disambut kesenian tradisional setempat. Pantauan Tribun di lokasi, KDM sempat mengunjungi pekarangan yang ditanami buah melon. KDM didampingi langsung oleh Kepala Desa atau Kuwu CiawiJapura, Ade Sri Sumartini dan Kapolresta Cirebon, Kombes Sumarni. Di sana, KDM juga berdialog tentang teknis penanaman serta hasil pertanian di desa yang berada di sisi timur Kabupaten Cirebon itu. Usai mengunjungi kebun melon yang siap ditanam, KDM langsung diarahkan di panggung yang sudah disediakan. "Saya sengaja datang ke sini karena saya dengar para petani Desa Ciawijapura berhasil membudidayakan melon secara mandiri dan hasilnya luar biasa," ujar KDM saat berpidato di ratusan masyarakat, Kamis (26/6/2025). Tanpa pikir panjang, KDM langsung membeli seluruh hasil panen melon yang telah dipajang warga di lokasi acara. Total sebanyak dua ton melon dibeli dan rencananya akan dibagikan kepada masyarakat di Desa Ciawijapura yang kurang mampu. "Kalau dibawa ke rumah gak akan dimakan, silakan Bu Kuwu bagikan ke masyarakat, nanti saya transfer langsung Rp 30 juta," ucapnya. https://cirebon.tribunnews.com/2025/0.... Reporter: Eki Yulianto Editor: Rudy Laudza",
     date: "2025-09-07",
-    image: "https://www.youtube.com/embed/CUkmiPX76PM?si=4ObLaEEUaAvASrF_", // gunakan link embed YouTube di sini
+    image: "https://www.youtube.com/embed/OtcMaK7BZNo?si=4EkxL0aQeRVqgekI", // gunakan link embed YouTube di sini
     category: "Berita",
   },
 ]
