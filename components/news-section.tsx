@@ -46,8 +46,6 @@ const newsData: NewsItem[] = [
     image: "https://www.youtube.com/embed/CUkmiPX76PM?si=4ObLaEEUaAvASrF_", // gunakan link embed YouTube di sini
     category: "Berita",
   },
-
-  
 ]
 // ...existing code...
 
