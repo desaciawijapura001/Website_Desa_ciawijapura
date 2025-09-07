@@ -36,19 +36,8 @@ const newsData: NewsItem[] = [
     image: "kkm.jpg",
     category: "Kegiatan",
   },
-  {
-    id: 3,
-    title: "Tanboy Kun Mukbang Mie Ayam di Ciawijapura",
-    excerpt: "Vidio Tanboy Kun yang mencoba mie ayam legendaris di desa kami menjadi viral.",
-    content:
-      "Vidio Tanboy Kun yang mencoba mie ayam legendaris yang viral di ciawijapura.",
-    date: "2025-09-05",
-    image: "https://www.youtube.com/embed/CUkmiPX76PM?si=4ObLaEEUaAvASrF_", // gunakan link embed YouTube di sini
-    category: "Teknologi",
-  },  
-  
     {
-    id: 4,
+    id: 3,
     title: "Kuwu Ciawijapura Susukanlebak Umumkan Pengurus Baru BumDes",
     excerpt: "Kuwu Desa Ciawijapura, Kecamatan Susukanlebak, resmi mengumumkan pengangkatan pengurus Badan Usaha Milik Desa (BumDes). Langkah ini dilakukan sebagai upaya memperkuat peran BumDes dalam menggerakkan roda perekonomian desa dan meningkatkan kesejahteraan masyarakat.Dalam kesempatan tersebut, Kuwu menegaskan bahwa keberadaan pengurus baru diharapkan mampu membawa inovasi serta mengembangkan berbagai unit usaha desa agar lebih produktif dan bermanfaat. Selain itu, pengurus BumDes juga diminta untuk menjaga transparansi, akuntabilitas, dan bekerja sama dengan masyarakat demi tercapainya pembangunan desa yang berkelanjutan.",
     content:
