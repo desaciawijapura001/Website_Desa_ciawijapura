@@ -43,7 +43,7 @@ const newsData: NewsItem[] = [
     content:
       "Dalam rangka mendukung pemberdayaan ekonomi lokal, mahasiswa Kuliah Kerja Mahasiswa (KKM) Universitas Muhammadiyah Cirebon (UMC) melakukan kegiatan penempelan poster infografis di sejumlah titik strategis di Desa Ciawijapura. Poster tersebut dirancang khusus untuk memperkenalkan produk-produk UMKM setempat, seperti kuliner, kerajinan tangan, hingga layanan jasa masyarakat.",
     date: "2025-09-07",
-    image: "...", // gunakan link embed YouTube di sini
+    image: "posterr.jpeg", // gunakan link embed YouTube di sini
     category: "kegiatan",
   },
   {
